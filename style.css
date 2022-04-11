@@ -1,0 +1,21 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-color: red;
+    background-position: center;
+}
+canvas{
+    box-shadow: 1px 10px 10px salmon;
+    border-radius: 10px;
+}
+
